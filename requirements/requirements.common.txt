@@ -229,7 +229,7 @@ markuppy==1.18
     # via tablib
 markupsafe==3.0.2
     # via jinja2
-marshmallow==3.26.1
+marshmallow==3.26.2
     # via django-automated-logging
 mccabe==0.7.0
     # via flake8
